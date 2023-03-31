@@ -1,0 +1,141 @@
+PLAYERS bot_A bot_B bot_Grupo
+YOU bot_B
+HAND [ A♠ 7♣ 4♣ 8♦ 4♠ 2♠ 10♣ ]
+TABLE A♥
+TURN bot_A
+DISCARD R♥
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+8♣
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+6♦
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 10♥
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 2♣
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD C♣ ♥
+TURN bot_B
+9♣
+D♠
+A♥
+D♥
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD A♣ ♥
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+TURN bot_A
+BUY 1
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 3♠
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+9♥
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 9♦
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 5♦
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 3♦
+TURN bot_B
+V♥
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 10♦
+TURN bot_B
+2♦
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 7♦
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD V♠
+TURN bot_B
+5♣
+8♠
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 1
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+DISCARD 4♥
+TURN bot_B
+TURN bot_Grupo
+INVALID ACTION
+TURN bot_A
+BUY 2
+TURN bot_B
+5♠
+TURN bot_A
+DISCARD 7♥
+TURN bot_B
+3♥
+TURN bot_A
+BUY 1
+TURN bot_B
+TURN bot_A
+DISCARD 6♥
+TURN bot_B
+R♣
+TURN bot_A
+DISCARD 6♣
+TURN bot_B
+TURN bot_A
+DISCARD 3♣
+TURN bot_B
+TURN bot_A
